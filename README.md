@@ -1,10 +1,2 @@
-- 👋 Hi, I’m @Lubba-64
-- 👀 I’m interested in Fullstack and Game Development
-- 🌱 I’m currently learning C#, Unity, Python, JS
-- 💞️ I’m not looking to collaborate right now
-- 📫 How to reach me: discord: lubba64#5426 
-
-<!---
-Lubba-64/Lubba-64 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=Lubba-64&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lubba-64)](https://github.com/anuraghazra/github-readme-stats)
