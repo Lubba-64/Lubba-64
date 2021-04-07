@@ -1,9 +1,9 @@
 Hi! this is Lubba64 AKA Benjamin Hines. I am 17, interested but not actively looking for a software dev job, and generally enjoy programming. most of my effort and time is spent on game development, with occasional side-projects to increase my skillset.
 
-**Socials:**
-Discord: Lubba64#5426
-Dogehouse: @WindowsDefender
-Email: lubba64@Gmail.com
+**Socials:**  return
+Discord: Lubba64#5426  return
+Dogehouse: @WindowsDefender  return
+Email: lubba64@Gmail.com  return
 
 Current Project: Chess in JS/CSS/HTML, and a unity game called Pixels.
 
