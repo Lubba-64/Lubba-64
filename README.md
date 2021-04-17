@@ -5,7 +5,7 @@ Discord: Lubba64#5426
 Dogehouse: @WindowsDefender           
 Email: lubba64@Gmail.com            
          
-Current Project: Chess in JS/CSS/HTML, and a unity game called Pixels.  
+Current Project: Chess in JS/CSS/HTML, plus a bunch of other random side/main projects.
           
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lubba-64)        
            
