@@ -2,7 +2,6 @@ Hi! this is Lubba64 AKA Benjamin Hines. I am 17, interested but not actively loo
          
 **Socials:**             
 Discord: Lubba64#5426          
-Dogehouse: @WindowsDefender           
 Email: lubba64@Gmail.com            
          
 Current Project: Pixels video Game, and other game dev related efforts.
