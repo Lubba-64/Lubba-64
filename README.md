@@ -5,7 +5,3 @@ Discord: Lubba64#5426
 Email: lubba64@Gmail.com            
          
 Current Project: Pixels video Game, and other game dev related efforts.
-          
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lubba-64)        
-           
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=Lubba-64&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
