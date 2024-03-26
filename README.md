@@ -1,4 +1,4 @@
-I make games and write python to make the big bucks (for now)
+I make games sometimes.
 
 **Socials:**  
 Discord: Lubba64  
